@@ -41,3 +41,7 @@ Ready to explore the world of dynamic basketball scoreboards with score incremen
 Create an engaging and interactive basketball experience with the dynamic scoreboard!
 
 ## Screenshots
+
+![basketball](https://github.com/ParasSethi8530/Basketball-Scoreboard-JS/assets/133093100/0008454b-3e9c-49d9-9581-38209a6cd806)
+
+![basketball 1](https://github.com/ParasSethi8530/Basketball-Scoreboard-JS/assets/133093100/6f2249db-471b-4b37-a22a-904988a5fffa)
