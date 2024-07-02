@@ -47,4 +47,4 @@ Create an engaging and interactive basketball experience with the dynamic scoreb
 ![basketball 1](https://github.com/ParasSethi8530/Basketball-Scoreboard-JS/assets/133093100/6f2249db-471b-4b37-a22a-904988a5fffa)
 
 ## Demo
-https://magnificent-concha-0987ee.netlify.app
+basketball-scoreboard-js-css-html.netlify.app
