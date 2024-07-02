@@ -32,7 +32,7 @@ Contributions to the project are welcome! Whether it's adding new features, enha
 
 ## Live Demo
 
-Curious to see the basketball scoreboard in action? Check out the live demo [here](#) to experience the real-time tracking, interactive features, and score incrementation firsthand.
+Curious to see the basketball scoreboard in action? Check out the live demo [basketball-scoreboard-js-css-html.netlify.app] to experience the real-time tracking, interactive features, and score incrementation firsthand.
 
 ## Get Started
 
@@ -46,5 +46,4 @@ Create an engaging and interactive basketball experience with the dynamic scoreb
 
 ![basketball 1](https://github.com/ParasSethi8530/Basketball-Scoreboard-JS/assets/133093100/6f2249db-471b-4b37-a22a-904988a5fffa)
 
-## Demo
-basketball-scoreboard-js-css-html.netlify.app
+
