@@ -32,7 +32,7 @@ Contributions to the project are welcome! Whether it's adding new features, enha
 
 ## Live Demo
 
-Curious to see the basketball scoreboard in action? Check out the live demo [https://blackjack-game-js-css-html.netlify.app] to experience the real-time tracking, interactive features, and score incrementation firsthand.
+Curious to see the basketball scoreboard in action? Check out the live demo [https://basketball-scoreboard-js-css-html.netlify.app] to experience the real-time tracking, interactive features, and score incrementation firsthand.
 
 ## Get Started
 
